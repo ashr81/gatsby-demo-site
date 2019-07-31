@@ -1,0 +1,31 @@
+- name: Google
+  role: Frontend Dev
+  start_date: 2019-08-22
+  end_date: 2019-08-23
+  tech_stack: Ruby, Javascript, React
+  description: Work Experience at Google
+  url: https://www.google.com/
+
+- name: Facebook
+  role: Full Stack developer
+  start_date: 2019-06-20
+  end_date: 2019-06-21
+  tech_stack: Ruby, Javascript, React, Ruby on Rails
+  description: Work Experience at Facebook
+  url: https://facebook.com/
+
+- name: Amazon
+  role: Full Stack Developer
+  start_date: 2020-04-23
+  end_date: 2020-04-24
+  tech_stack: Ruby, Javascript, React, Ruby on Rails
+  description: Work Experience at Amazon
+  url: https://www.amazon.com
+
+- name: J.P.Morgan
+  role: Tech Lead
+  start_date: 2019-11-08
+  end_date: 2019-11-08
+  tech_stack: Ruby, Javascript, React, Ruby on Rails
+  description: Description of your work/schooling at present company comes here(Only Text supported now)
+  url: https://austin2019.theleaddeveloper.com/
