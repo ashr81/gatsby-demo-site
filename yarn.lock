@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@ashr81/gatsby-theme-profile-builder@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@ashr81/gatsby-theme-profile-builder/-/gatsby-theme-profile-builder-1.0.3.tgz#b8a7ac8f64416000a29761164b3523c631044702"
-  integrity sha512-5XYVneF6DaU+TA/IjKTqn2AsY4rWrcMtrgEgzL8rxkHJZwkEAxQPc6PNoIxB0c3fUeroK0C+VrhRAbvyy44dlg==
+"@ashr81/gatsby-theme-profile-builder@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@ashr81/gatsby-theme-profile-builder/-/gatsby-theme-profile-builder-1.0.4.tgz#e83ba696488ce098d41d484c107f51495eb11800"
+  integrity sha512-2qHXpyw6NDA7jNiI8tasQB6QpjfG2iAFr1PUL4YuCB0INg/KENaUzvvhuK5E79FDRpqSoYi7wBe54pCSiJfvCw==
   dependencies:
     "@contentful/rich-text-react-renderer" "^13.2.0"
     "@emotion/core" "^10.0.14"
