@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@ashr81/gatsby-theme-profile-builder": "^1.0.15",
-    "gatsby": "^2.13.45",
+    "gatsby": "^4.25.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
